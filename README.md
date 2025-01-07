@@ -91,6 +91,7 @@ To run this blog locally:
 1. Clone the repository:
    git clone https://github.com/Omkeswani27/Gemini-Clone.git
 2. Navigate to the project directory:
+   ```bash
    cd Gemini-Clone
 
 ## Contact
